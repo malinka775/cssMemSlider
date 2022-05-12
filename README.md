@@ -1,0 +1,1 @@
+Slider on pure HTML and CSS (no JS, CSS frameworks used)
