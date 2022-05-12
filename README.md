@@ -1,1 +1,1 @@
-Slider on pure HTML and CSS (no JS, CSS frameworks used)
+CSS slider on pure HTML and CSS (no js and css frameworks used)
