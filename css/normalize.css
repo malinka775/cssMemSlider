@@ -198,18 +198,6 @@ button::-moz-focus-inner,
  border-style: none;
 }
 
-/*
-Restore the focus styles unset by the previous rule.
-*/
-
-button:-moz-focusring,
-[type="button"]:-moz-focusring,
-[type="reset"]:-moz-focusring,
-[type="submit"]:-moz-focusring {
- outline: 1px dotted ButtonText;
-}
-
-
 
 /*
 1. Correct the text wrapping in Edge and IE.
@@ -250,15 +238,6 @@ Correct the cursor style of increment and decrement buttons in Chrome.
  height: auto;
 }
 
-/*
-1. Correct the odd appearance in Chrome and Safari.
-2. Correct the outline style in Safari.
-*/
-
-[type="search"] {
- -webkit-appearance: textfield; /* 1 */
- outline-offset: -2px; /* 2 */
-}
 
 /*
 Remove the inner padding in Chrome and Safari on macOS.
